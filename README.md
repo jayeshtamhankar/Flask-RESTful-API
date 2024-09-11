@@ -95,11 +95,3 @@ The API will be accessible at `http://127.0.0.1:5000/`.
 ### Contributing
 
 Feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvements.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the details to better fit your specific project requirements.
