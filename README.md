@@ -1,7 +1,3 @@
-
-
-Here's a sample README for your Flask-RESTful-API project:
-
 ---
 
 # Flask RESTful API
